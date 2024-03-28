@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+.ClassContainer{
+	
+	width:700px;
+	height:400px;
+	background-color: teal;
+	border-radius: 5px;
+	padding:10px;
+	position:relative;
+	left:300px;
+	top:100px;
+	
+}
+.subContent{
+	
+	position:absolute;
+	width:600px;
+	height:280px;
+	list-style-type: none;
+	margin-left:20px;
+	top:20px;
+}
+.subContent li{
+	
+	padding:10px;
+}
+.control{
+	
+	width:400px;
+	height:40px;
+}
